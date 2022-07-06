@@ -1,2 +1,2 @@
 # JavaScript Coding
-This is for Java
+This is for JavaScript camp
