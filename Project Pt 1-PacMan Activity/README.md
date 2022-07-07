@@ -1,1 +1,2 @@
 # Project Pt 1 - PacMan Activity
+For this project, there were sets of images that if you played at a fast rate, would create a pacman figure. Your job is to run these images at the correct rate and make sure that as the pacman goes along, it would turn aroung right as it touches the page border.
