@@ -1,1 +1,2 @@
 # Debugging Activity
+For this assignment, there is 4 checkpoint you ened to pass. Each checkpoint is linked to the 4 parts of code that have some bugs in them, meaning they have issues. Your job is to fix these issues in the code and make sure all the checkpoint are running smoothly
