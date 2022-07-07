@@ -1,1 +1,2 @@
 # Creating Sentences Activity
+in this assignment, you create code that makes it so that if the user inputs a number in between 0 and 3, they have a low fortune. If they input a number between 4 and 7, they have an average fortune. If they input a number bewteen 8 and 10, they have a high fortune. If the user does not input any of these numbers, it means that we cannot read their fortune
